@@ -22,7 +22,7 @@ const eventContent = {
 };
 
 const images = [
-  { category: 'Music', src: 'https://png.pngtree.com/background/20230610/original/pngtree-abstract-music-design-wallpaper-and-background-music-background-images-picture-image_3108923.jpg' },
+  { category: 'Musiccc', src: 'https://png.pngtree.com/background/20230610/original/pngtree-abstract-music-design-wallpaper-and-background-music-background-images-picture-image_3108923.jpg' },
   { category: 'Tech', src: 'https://varioproductions.com/wp-content/uploads/2020/02/5-Event-Tech-Trends-to-Watch-Out-For-in-2020-scaled-1-1024x683.jpg' },
   { category: 'Art', src: 'https://img.budgettravel.com/ARTECHOUSE.jpg' },
   { category: 'Business', src: 'https://kongres-magazine.eu/wp-content/uploads/2020/11/dubai_business_events-1.png' },
