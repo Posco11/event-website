@@ -1,5 +1,5 @@
 import React from 'react';
-import EventCarousel from './event.jsx';
+import EventCarousel from './pages/event.jsx';
 
 
 function App() {
